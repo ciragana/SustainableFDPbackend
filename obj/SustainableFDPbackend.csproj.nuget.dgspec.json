@@ -13,7 +13,6 @@
         "packagesPath": "/home/k4li/.nuget/packages/",
         "outputPath": "/home/k4li/RiderProjects/SustainableFDPbackend/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/home/k4li/.nuget/NuGet/NuGet.Config"
         ],

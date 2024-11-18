@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SustainableFDPbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ece76cf7ef329c96d800dba5e6fe35453b39817")]
 [assembly: System.Reflection.AssemblyProductAttribute("SustainableFDPbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SustainableFDPbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
