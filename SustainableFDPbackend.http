@@ -1,0 +1,6 @@
+@SustainableFDPbackend_HostAddress = http://localhost:5194
+
+GET {{SustainableFDPbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
